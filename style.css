@@ -1,0 +1,144 @@
+*{
+    padding: 0;
+    margin: 0;
+    box-sizing: border-box;
+
+}
+
+img{
+    width: 100%;
+    height: auto;
+}
+.header-section{
+    background-image: url(img/header-bg.png);
+    background-repeat: no-repeat;
+    background-size: 100% 100%;
+    padding: 100px;
+    height: 620px;
+}
+h1{
+   font-size: 3rem; 
+   font-weight: bold;
+   
+}
+.single-style{
+    padding: 50px;
+
+
+}
+.name{
+    color: #EC4C7A;
+    font-size: 5rem;
+    
+}
+.detels{
+    font-size: 1.5rem;
+    padding-bottom:30px ;
+}
+.half-width{
+    width: 48%;
+    float: left;
+    text-align: center;
+    height: auto;
+    text-align: left;
+    padding: 30px 60px ;
+    line-height: 1.5;
+
+    
+}
+.btn {
+    background-color:#EC4C7A ;
+    padding: 10px;
+    margin: 0px;
+    
+    border-radius: 10px;
+    
+}
+a{
+    text-decoration: none;
+    font-size: 1.5rem;
+    text-transform: uppercase;
+    width: 30px;
+    
+    
+}
+.biography-section{
+    background-image: url(img/biography-bg.png);
+    background-repeat: no-repeat;
+    height: 750px;
+    padding: 100px;
+
+}
+.letest-work-section{
+    background-image: url(img/latest-work-bg.png);
+    background-repeat: no-repeat;
+    background-size: 100% 100%;
+    height: 500px;
+    margin-bottom: 100px;
+}
+#latest{
+    text-align: center;
+    padding: 50px ;
+}
+.latest-work{
+    padding: 50px 80px;
+    
+}
+.width1{
+    width: 31%;
+    float: left;
+    padding: 10px;
+    margin: 10px;
+    border: 1px solid black;
+
+}
+.footer-section{
+    
+    background-image: url(img/footer-bg.png);
+    background-repeat: no-repeat;
+    background-size:100% 100% ;
+    margin-bottom: 50px;
+    
+    
+
+}
+.footer{
+    text-align: center;
+    line-height: 30px;
+    
+}
+.say{
+    line-height: 3rem;
+}
+.founder{
+    padding: 40px 20px;
+}
+
+.founder p{
+    font-size: 0.8rem;
+}
+.text{
+    padding-bottom: 40px;
+    
+    
+}
+.div{
+    width: 450px;
+    
+    margin: auto;
+    background-color: #EC4C7A;
+    border-radius: 10px;
+    padding: 10px;
+    border: 1px solid #EC4C7A ;
+    margin-bottom: 100px;
+    
+    
+}
+.div p {
+    color: white;
+}
+#gmail-com{
+    color: white;
+    text-transform: lowercase;
+    font-size: 1.5rem;
+}
